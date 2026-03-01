@@ -2,7 +2,7 @@ body {
         background-color: aquamarine;
         color: red;
 }
-signIn{
+.signIn{
     width:75%;
     height: 80vh;
     border: none;
